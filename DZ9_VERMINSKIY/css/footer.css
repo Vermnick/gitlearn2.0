@@ -1,0 +1,43 @@
+.footer-section{
+    max-width: 1920px;
+    height: 250px;
+    background-color: #34547A;
+}
+.container__footer{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.footer__item {
+    padding: 100px 22px 100px 22px;
+    margin: 0 auto;
+}
+.footer__item li{
+    list-style: none;
+    display: inline-block;
+}
+.numbers__item{
+    max-width: 141px;
+    height: 50px;
+}
+.ending-section{
+    max-width: 1920px;
+    height: 151px;
+    background: #34547A;
+}
+.author {
+    max-width: 130px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 21px;
+    color: white;
+    padding: 50px 1384px 20px 406px;
+    display: block;
+}
+.paragraph{
+    max-width: 193px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 13px;
+    color: #FFFFFF;
+    padding: 0 1321px 50px 406px;
+}

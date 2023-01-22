@@ -1,0 +1,33 @@
+.footer__container{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+    background: rgb(2, 120, 197);;
+}
+.footer__item{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    font-family: Arial;
+    letter-spacing: 3px;
+}
+.footer__item li{
+    list-style: none;
+    color: white;
+}
+.footer__item a:link{
+    color: white;
+}
+.footer__item a:focus {
+    border-bottom: 1px solid;
+    background: #f8a7e6;
+}
+.footer__item a:hover {
+    border-bottom: 1px solid;
+    background: #f8a7e6;
+}
+h3{
+    font-size: 25px;
+}

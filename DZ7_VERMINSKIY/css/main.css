@@ -1,0 +1,28 @@
+.main__container{
+    margin: 0 auto;
+    max-width: 60%;
+}
+h2{
+     background: #b8e0ff;
+     color: rgb(2, 120, 197);
+     font-family: Arial;
+}
+.img-holder img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.card{
+    width: 20%;
+    height: auto;
+    display: inline-block;
+    font-size: 15px;
+    vertical-align: top;
+    margin: 0 2.5% 10px;
+}
+.catalog{
+    font-size: 0;
+}
+.catalog__wrapper{
+    margin: 0 -2.5%;
+}

@@ -1,0 +1,45 @@
+.container__main{
+    max-width: 1920px;
+    height: 359px;
+    background: white;
+    border: 1px transparent;
+}
+h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+}
+.article-item{
+    max-width: 540px;
+    padding-top: 112px;
+    text-align: center;
+    margin: 0 auto;
+}
+.article__description{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    padding-top: 50px;
+}
+.second-list-section{
+    max-width: 1920px;
+    height: 1004px;
+}
+.second-article-item{
+    max-width: 540px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+video{
+    max-width: 1110px;
+    height: 600px;
+}
+.video{
+    padding: 57px 405px 100px 405px;
+}
