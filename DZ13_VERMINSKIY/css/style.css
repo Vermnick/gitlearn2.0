@@ -1,0 +1,48 @@
+@import "framework.css";
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 15px;
+    padding: 0;
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
+.menu > ul > li{
+    float: left;
+    padding: 20px;
+}
+
+.product{
+    position: absolute;
+    top: 100%;
+    transform: scaleY(0);
+    transition: all ease-in-out 0.3s;
+    transform-origin: 0 0;
+}
+li:hover > .product{
+    transform: scaleY(1);
+}
+
+.product.right{
+    left: 100%;
+   width: 100%;
+    top: 50%;
+}
+nav{
+    position: relative;
+    background-color: rgba(10, 8, 8, 0.78);
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 100%;
+    background-color: #3c99d9;
+    padding: 11px;
+}
+li{
+    padding: 10px 0;
+}
