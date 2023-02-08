@@ -1,0 +1,38 @@
+.footer-list{
+    display: flex;
+}
+.footer{
+    display: flex;
+    padding-top: 97px;
+    border-bottom: 1px solid black;
+}
+.bicycle-card{
+    margin-right: 140px;
+}
+.footer-list ul{
+    list-style: none;
+    width: 187px;
+}
+.footer-list li{
+    padding:7px;
+}
+.ending{
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.ending-desc{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding: 0 0 43px 0;
+}
+.end-logo{
+    padding: 0 14px 0 0;
+}
+.ending-desc p{
+    width: 250px;
+}
+.date{
+    padding-bottom: 43px;
+}
